@@ -41,4 +41,4 @@ vender el ejecutable. Incluye smartctl de [smartmontools](https://www.smartmonto
 
 ## SHA256
 
-`(acá va el hash del exe)`
+sha256:3c7580b20eba458ea8bc10f017e8e9c66edd8512be3bf16f8fcbd22916521ddc
