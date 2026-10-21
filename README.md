@@ -39,6 +39,3 @@ Abrí un [issue](https://github.com/gustavo1234ar/winsmartstatus-releases/issues
 Gratis para uso técnico. No es open source: no se permite redistribuir, modificar ni
 vender el ejecutable. Incluye smartctl de [smartmontools](https://www.smartmontools.org/) (GPL-2.0+).
 
-## SHA256
-
-sha256:4f9beee51973b35c1051cb7729cb6a5206bde20b625eecd05918689650246a1d
