@@ -8,12 +8,12 @@ Lee los datos SMART del disco y arma un informe claro: salud, uso, errores y qu�
 **[Última versión](https://github.com/gustavo1234ar/winsmartstatus-releases/releases/latest)**
 
 - Windows 7 en adelante, 32 y 64 bits (probado en 8.1 y en 10/11).
-- **No se instala**: es un solo archivo `.exe` portable.
+- **No se instala**: descargá el ZIP, descomprimilo y ejecutá `WinSmartStatus.exe`. No separes el exe de los archivos que lo acompañan: los necesita para arrancar en Windows 7 y 8.1 sin actualizaciones.
 - Pide permisos de administrador: los necesita para leer el disco.
 
 ## Cómo se usa
 
-1. Guardá el archivo donde quieras y abrilo.
+1. Descomprimí el ZIP donde quieras y ejecutá `WinSmartStatus.exe`.
 2. Si aparece el aviso de SmartScreen: **Más información** → **Ejecutar de todas formas**
    (todavía no está firmado digitalmente).
 3. Elegí el disco en la lista, apretá **Analizar** y leé el panel.
@@ -41,4 +41,4 @@ vender el ejecutable. Incluye smartctl de [smartmontools](https://www.smartmonto
 
 ## SHA256
 
-sha256:3c7580b20eba458ea8bc10f017e8e9c66edd8512be3bf16f8fcbd22916521ddc
+sha256:4f9beee51973b35c1051cb7729cb6a5206bde20b625eecd05918689650246a1d
