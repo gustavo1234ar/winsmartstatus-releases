@@ -47,7 +47,7 @@ Un veredicto favorable **no garantiza** que el disco no vaya a fallar. Un veredi
 
 ## 7. Límite de responsabilidad
 
-En la medida en que la ley lo permita, el autor no es responsable por daños directos o indirectos, pérdida de datos o lucro cesante derivados del uso o de la imposibilidad de usar el programa. Es responsabilidad del usuario **mantener respaldos** de su información.
+En la medida en que la ley lo permita, Repabase no es responsable por daños directos o indirectos, pérdida de datos o lucro cesante derivados del uso o de la imposibilidad de usar el programa. Es responsabilidad del usuario **mantener respaldos** de su información.
 
 ## 8. Cambios
 
@@ -55,5 +55,5 @@ Estas condiciones pueden actualizarse. La versión vigente es siempre la publica
 
 ## 9. Contacto y legislación
 
-Contacto: **gustavorul@gmail.com**.
+Contacto: **info@repabase.com.ar** — [repabase.com.ar](https://repabase.com.ar).
 Estas condiciones se rigen por las leyes de la República Argentina.
