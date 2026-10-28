@@ -7,8 +7,9 @@ Lee los datos SMART del disco y arma un informe claro: salud, uso, errores y qu�
 
 ## Proveedor
 
-- **Desarrollador / marca:** Gustavo Rul — GitHub [@gustavo1234ar](https://github.com/gustavo1234ar)
-- **Contacto:** gustavorul@gmail.com
+- **Producto:** WinSmartStatus
+- **Proveedor / marca:** Repabase — [repabase.com.ar](https://repabase.com.ar)
+- **Contacto:** info@repabase.com.ar
 - **País:** Argentina
 
 ## Descargar
