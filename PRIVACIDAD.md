@@ -4,7 +4,7 @@
 
 ## 1. Quién es el responsable
 
-**Gustavo Rul** (GitHub [@gustavo1234ar](https://github.com/gustavo1234ar)) — contacto: **gustavorul@gmail.com**.
+**Repabase** ([repabase.com.ar](https://repabase.com.ar)) — contacto: **info@repabase.com.ar**.
 WinSmartStatus es un programa gratuito y portable para Windows que diagnostica discos mediante S.M.A.R.T.
 
 ## 2. Resumen en una línea
@@ -48,7 +48,7 @@ La app consulta a la API pública de GitHub si hay una versión nueva. Esa consu
 
 ## 7. Conservación y borrado
 
-Los datos enviados se conservan para poder comparar la evolución del disco en el tiempo. Podés pedir la eliminación de todos los datos asociados a un disco escribiendo a **gustavorul@gmail.com**: se borran y se confirma por correo.
+Los datos enviados se conservan para poder comparar la evolución del disco en el tiempo. Podés pedir la eliminación de todos los datos asociados a un disco escribiendo a **info@repabase.com.ar**: se borran y se confirma por correo.
 
 ## 8. Publicidad y perfilado
 
